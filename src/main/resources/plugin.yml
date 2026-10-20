@@ -1,0 +1,10 @@
+name: AltarSMP
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin for the Altar SMP server
+api-version: "1.21"
+commands:
+  altar:
+    description: Displays a welcome message for the Altar SMP
+    usage: /altar
